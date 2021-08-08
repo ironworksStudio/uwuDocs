@@ -1,5 +1,10 @@
-__**"Althaia's Guide to Everything You Ever Wanted to Know About Final Fantasy 14"**__(Mountain King)
-_ or how i learned to stop worrying and love the catgirls_ (Spice Addict)
+layout: page
+title: "Beginner's guide WIP"
+permalink: /AGEYEWKAFFXIV/
+
+# "Althaia's Guide to Everything You Ever Wanted to Know About Final Fantasy 14"
+(Title provided by Mountain King)
+### or how i learned to stop worrying and love the catgirls (Spice Addict)
 
 **This is where the disjointed bits of a big guide i'm working on will live. You can't send messages here, but you can at least read the WIP... Maybe it'll be helpful in the meantime :smiling_face_with_tear:**
 
