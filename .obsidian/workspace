@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "51850e14e0caf393",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be969c92940c34f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Beginner's Guide WIP.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f34ba1e591def3a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d377b1355a86f7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6c360453c5c409",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a82b92cfb5588fdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "942710da14aabbb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec9ee977a9931c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51f805ee8bef522",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Beginner's Guide WIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6be969c92940c34f",
+  "lastOpenFiles": [
+    "Beginner's Guide WIP.md",
+    "Bozja.md",
+    "README.md",
+    "FAQ.md",
+    "Untitled.md"
+  ]
+}
