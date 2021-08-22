@@ -1,0 +1,213 @@
+---
+title: List of resources
+layout: page
+permalink: /resources/
+nav_order: 2
+---
+# General
+
+Look up info on ANYTHING: [http://garlandtools.org/db/](http://garlandtools.org/db/) \
+The Balance: [https://discord.gg/thebalanceffxiv](https://discord.gg/thebalanceffxiv) (BIS Gear and class resources)
+
+Info on quests, items, anything: [https://ffxiv.gamerescape.com/wiki/Main_Page](https://ffxiv.gamerescape.com/wiki/Main_Page)
+
+Collection Tracker: [https://ffxivcollect.com/](https://ffxivcollect.com/)
+
+MSQ List: [https://ffxiv.consolegameswiki.com/wiki/Main_Scenario_Quests](https://ffxiv.consolegameswiki.com/wiki/Main_Scenario_Quests) 
+Dungeon Unlock/Complete Tracker:  [https://docs.google.com/spreadsheets/d/1wpC6P4dGRz1zcOHdEXVtrevq78ktMTw6R34GhfSiRPY/edit#gid=1659249443](https://docs.google.com/spreadsheets/d/1wpC6P4dGRz1zcOHdEXVtrevq78ktMTw6R34GhfSiRPY/edit#gid=1659249443)
+
+How to unlock all them darn dungeons: [https://imgur.com/a/Ct9mp5m](https://imgur.com/a/Ct9mp5m) 
+Gear Guide: [https://youtu.be/BEICzuf98Rs](https://youtu.be/BEICzuf98Rs)
+
+
+# Leveling
+
+How to level your alt jobs: [https://youtu.be/QHYClNUfMCs](https://youtu.be/QHYClNUfMCs) 
+How to gear up for best EXP Gain: [https://www.reddit.com/r/ffxiv/comments/otdv9u/want_to_level_some_jobs_before_endwalker_we_made/](https://www.reddit.com/r/ffxiv/comments/otdv9u/want_to_level_some_jobs_before_endwalker_we_made/)
+
+PotD Guide: [https://docs.google.com/document/d/1oV_SIs5L9kD_NHO2ZsU4Tw8R6iQ4v1RC5fZPQqK6cD8/edit#](https://docs.google.com/document/d/1oV_SIs5L9kD_NHO2ZsU4Tw8R6iQ4v1RC5fZPQqK6cD8/edit#) 
+HoH Guide: [https://docs.google.com/document/d/1YVBSTOgJO-xOAB6YyKZEZRikjXFPle6Ihf_E7VdmQnI/edit](https://docs.google.com/document/d/1YVBSTOgJO-xOAB6YyKZEZRikjXFPle6Ihf_E7VdmQnI/edit)
+
+
+### Blue Mage
+
+Masked Carnival 1-25 Guide: [https://mmotar.com/ffxiv-mc-blue-mage-carnivale-guide-2019/](https://mmotar.com/ffxiv-mc-blue-mage-carnivale-guide-2019/) \
+	26-30 Guide: [https://docs.google.com/document/d/11XqUoC6sm8kfJD6T87frI-SfhfxpwiBM-8YDtOZ688c/edit](https://docs.google.com/document/d/11XqUoC6sm8kfJD6T87frI-SfhfxpwiBM-8YDtOZ688c/edit) 
+Blue Mage Spells (And where to find them!): [https://ffxiv.gamerescape.com/wiki/Blue_Magic_Spellbook](https://ffxiv.gamerescape.com/wiki/Blue_Magic_Spellbook) 
+	Alternate: [https://www.retahgaming.com/ffxiv/bluemage.php](https://www.retahgaming.com/ffxiv/bluemage.php) 
+Blue Mage Bis’s: [https://docs.google.com/spreadsheets/d/1tZ95lLdwldQSl0ebm0On--utwSabvH5sBIfr_j4je84/edit#gid=1656928302](https://docs.google.com/spreadsheets/d/1tZ95lLdwldQSl0ebm0On--utwSabvH5sBIfr_j4je84/edit#gid=1656928302)
+
+
+# Disciple of the Hand/Land
+
+Crafting/Gathering BIS’s: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTnXbCjEBvNCX5u9fno-hdIL0C0ciC3nMChB2DhaWTd-v_uc5UH0TC5W9Ytgy7rWeAeIk_PPlOMSmiA/pubhtml#](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnXbCjEBvNCX5u9fno-hdIL0C0ciC3nMChB2DhaWTd-v_uc5UH0TC5W9Ytgy7rWeAeIk_PPlOMSmiA/pubhtml#) 
+Diadem Guide: [https://us.millenium.gg/guide/14034.html](https://us.millenium.gg/guide/14034.html) 
+Crafting Setup and Calculators: [https://ffxivcrafting.com/](https://ffxivcrafting.com/) 
+Custom Crafting Trackers: [https://ffxivteamcraft.com/](https://ffxivteamcraft.com/) 
+Ocean Fishing Tracker: [https://ffxiv.pf-n.co/ocean-fishing](https://ffxiv.pf-n.co/ocean-fishing) 
+Fishing Master Tracker: [https://en.ff14angler.com/](https://en.ff14angler.com/)
+
+Fisherman’s Horizon: [https://discord.gg/4pc6EXW](https://discord.gg/4pc6EXW) (Fishing guides/Party Finder) 
+Gathering Rotation Flowchart: [https://i.imgur.com/pQSWI1M.png](https://i.imgur.com/pQSWI1M.png) 
+Moogle Quest List: [https://ffxiv.consolegameswiki.com/wiki/Moogle_Daily_Quests](https://ffxiv.consolegameswiki.com/wiki/Moogle_Daily_Quests)
+
+I wanna craft gear for my lvl 80 retainers!: [https://ffxiv.ariyala.com/1EEI3](https://ffxiv.ariyala.com/1EEI3) 
+	What you’ll need: [https://ffxivteamcraft.com/list/NzbHilup5WObU7v8LFDZ](https://ffxivteamcraft.com/list/NzbHilup5WObU7v8LFDZ) 
+Can I do it with less crafting?: [https://ffxiv.ariyala.com/1EF1U](https://ffxiv.ariyala.com/1EF1U) or [https://ffxiv.ariyala.com/1EF1V](https://ffxiv.ariyala.com/1EF1V) \
+	What you’ll need: [https://ffxivteamcraft.com/list/EfDTL6Acs0eUod6iQBiz](https://ffxivteamcraft.com/list/EfDTL6Acs0eUod6iQBiz) 
+Firmament Guide: [https://docs.google.com/spreadsheets/d/e/2PACX-1vSle1GjJnme3QhxJbrWdDE3dEl_3kEk5391au9VJMZ5lgKHnPR4NBR7Jp6lsNuiHCatpYxrhpMahV-3/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vSle1GjJnme3QhxJbrWdDE3dEl_3kEk5391au9VJMZ5lgKHnPR4NBR7Jp6lsNuiHCatpYxrhpMahV-3/pubhtml)
+
+Gardening Master Resource: [https://www.ffxivgardening.com/](https://www.ffxivgardening.com/)
+
+
+# Relics
+
+What relic should I get first?: [https://youtu.be/ul3OpTxzDCs](https://youtu.be/ul3OpTxzDCs)
+
+Relic Tracker (ARR Relics): [https://docs.google.com/spreadsheets/d/1EtGNz5KDDevPdCMErTquDJ3tGrmflsdkDlTkXViBTtE/edit#gid=828332130](https://docs.google.com/spreadsheets/d/1EtGNz5KDDevPdCMErTquDJ3tGrmflsdkDlTkXViBTtE/edit#gid=828332130) 
+Downloadable HW Relic Tracker: [https://www.reddit.com/r/ffxiv/comments/4xu0sa/my_anima_weapon_tracker_app/](https://www.reddit.com/r/ffxiv/comments/4xu0sa/my_anima_weapon_tracker_app/) 
+Map for Respawns/One Time Collects: [http://www.heavenswhere.com/](http://www.heavenswhere.com/)
+
+Shadowbringers Relic Guide: [https://youtu.be/7VCVhTu0uFY](https://youtu.be/7VCVhTu0uFY) 
+More accessible forms of the Shadowbringers Relic Video: [https://twitter.com/akhmorning/status/1403586334971813889?s=19](https://twitter.com/akhmorning/status/1403586334971813889?s=19) 
+
+
+
+# Housing
+
+Housing Items Catalogue: [https://en.ff14housing.com/](https://en.ff14housing.com/) 
+Housing Inspiration photos: [https://housingsnap.com/](https://housingsnap.com/)
+
+Discord for demolished houses (For house snipers): [https://discord.gg/saChECt](https://discord.gg/saChECt) \
+Housing FAQ (Including house-hunting tips!): [https://docs.google.com/document/d/18b-3J7vDqISvmjfX9qN5L9O51rlgbuY3TX_RfEPNbrA](https://docs.google.com/document/d/18b-3J7vDqISvmjfX9qN5L9O51rlgbuY3TX_RfEPNbrA)
+
+
+# Combat
+
+ \
+DPS Calculator: [https://ffxiv.azizarar.com/](https://ffxiv.azizarar.com/) \
+Damage Analysis using Fight Log: [https://xivanalysis.com/](https://xivanalysis.com/) \
+Setting Up Gear Set Switch Hotbars: [https://docs.google.com/document/d/1eaz7ErwStgmqHNWc7mgDWGZd1Edti06vRbb_8leqC5g/edit](https://docs.google.com/document/d/1eaz7ErwStgmqHNWc7mgDWGZd1Edti06vRbb_8leqC5g/edit) \
+DPS Tracker (Third Party Program): [https://github.com/FFXIV-ACT/setup-guide](https://github.com/FFXIV-ACT/setup-guide)
+
+Squadron Suggestions Calculator: [http://www.ffxivsquadron.com/](http://www.ffxivsquadron.com/)
+
+
+# The Golden Saucer
+Mini Cactpot Solver: [http://cactpot.xyz/](http://cactpot.xyz/) \
+Verminion Master Resource: [http://www.ffxiverminion.com/](http://www.ffxiverminion.com/) \
+Triple Triad Master Resource: [https://arrtripletriad.com/](https://arrtripletriad.com/)
+
+Triple Triad Card Tracker: [https://triad.raelys.com/](https://triad.raelys.com/) \
+Chocobo Racing Master Resource: [https://ffxivchocoboracing.wordpress.com/](https://ffxivchocoboracing.wordpress.com/)
+
+Weekly Fashion Report Guides: [https://www.reddit.com/user/kaiyoko/](https://www.reddit.com/user/kaiyoko/)
+
+
+# Chocobos
+Chocobo Inbreeding Calculator: [https://chocobobreedcalculator.herokuapp.com/](https://chocobobreedcalculator.herokuapp.com/) \
+Battle Chocobo Stabling Guide: [https://ffxiv.consolegameswiki.com/wiki/Chocobo_Raising](https://ffxiv.consolegameswiki.com/wiki/Chocobo_Raising)
+
+Battle Chocobo Dye Calculator: [https://ffxivchocobo.com/en](https://ffxivchocobo.com/en)
+
+
+# The Hunt
+
+WTF are Hunts?: [https://docs.google.com/document/d/1FM1RrKGPg2x52NRv7iQHiNe8B9O_J4jh5tHL71tOj38/edit](https://docs.google.com/document/d/1FM1RrKGPg2x52NRv7iQHiNe8B9O_J4jh5tHL71tOj38/edit) \
+Aether Hunts: [https://discord.gg/aetherhunts](https://discord.gg/aetherhunts) (Hunt/FATE notifications)
+
+Where are the ShB hunts?: [http://www.gamersheroes.com/game-guides/how-to-unlock-new-hunts-in-final-fantasy-xiv-shadowbringers/](http://www.gamersheroes.com/game-guides/how-to-unlock-new-hunts-in-final-fantasy-xiv-shadowbringers/)
+
+Possible Hunt Spawns Map: [https://cablemonkey.us/huntmap2/](https://cablemonkey.us/huntmap2/)
+
+
+# Discord Communities
+
+FF14 Discord: [https://discord.gg/ffxiv](https://discord.gg/ffxiv) (Unofficial translations and community) \
+Discord for demolished houses (For house snipers): [https://discord.gg/saChECt](https://discord.gg/saChECt)
+
+PVPaissa: [https://discord.gg/sUy86UC](https://discord.gg/sUy86UC) (PVP Party Finder/Resources)
+
+Baldesion Arsenal:[https://discord.gg/Q92V7y4](https://discord.gg/Q92V7y4) (Eureka, Bozja, Baldesion Party Finder) \
+Fisherman’s Horizon: [https://discord.gg/4pc6EXW](https://discord.gg/4pc6EXW) (Fishing guides/Party Finder) \
+PVP Revival: [https://discord.com/invite/pvprevival](https://discord.com/invite/pvprevival) (PVP Mega-Resource/Party Finder)
+
+
+# Eureka and Bozja and Baldesion, Oh my!
+
+Baldesion Arsenal:[https://discord.gg/Q92V7y4](https://discord.gg/Q92V7y4) (Eureka, Bozja, Baldesion Party Finder) \
+Eureka Map and FATE Tracker: [https://ffxiv-eureka.com/](https://ffxiv-eureka.com/) \
+Bozja Map and Spawn Tracker: [https://ffxiv-eureka.com/](https://ffxiv-eureka.com/) \
+	Alternate: [https://ffxiv.pf-n.co/bozja](https://ffxiv.pf-n.co/bozja) \
+Intro to Bozja: [https://www.akhmorning.com/resources/bozjan-southern-front/#pages-in-this-guide](https://www.akhmorning.com/resources/bozjan-southern-front/#pages-in-this-guide)
+
+Bozja Lost Actions Resource and Tracker:[ https://ffxiv.kmiwl.de/bozja/?a=8f](https://ffxiv.kmiwl.de/bozja/?a=8f)
+
+
+# Miscellaneous
+Market Board Checker: [https://universalis.app/](https://universalis.app/) \
+Learn the Eorzean Alphabet!: [https://ffxiv.gamerescape.com/wiki/Alphabet](https://ffxiv.gamerescape.com/wiki/Alphabet) \
+How long until the next Maintenance: [http://www.xenoveritas.org/static/ffxiv/timer.html](http://www.xenoveritas.org/static/ffxiv/timer.html) \
+When will a certain weather pattern occur?: [https://super-aardvark.github.io/weather/](https://super-aardvark.github.io/weather/)
+
+Sightseeing Log Tracker: [https://tylian.net/sslog/](https://tylian.net/sslog/) \
+Wondrous Tails Odds Calculator: [http://ashtender.com/ffxiv/tails?stickers=42195](http://ashtender.com/ffxiv/tails?stickers=42195) \
+	Calculator: [http://ffxiv.morpheusz.com/p/wondrous-tails-solver.html](http://ffxiv.morpheusz.com/p/wondrous-tails-solver.html) \
+Faux Hollows (Unreal Trial Minigame) Solver: [https://sturalke.github.io/FauxHollowsProbabilisticSolver/](https://sturalke.github.io/FauxHollowsProbabilisticSolver/)
+
+What Block Letters Look Like In game: [https://i.imgur.com/cM1lltv.png](https://i.imgur.com/cM1lltv.png) \
+What to farm during Make it Rain Event: [https://twitter.com/kaiyokostar/status/1414501048698298371?s=21](https://twitter.com/kaiyokostar/status/1414501048698298371?s=21)
+
+How to Survive Choco Meteor (Red Choctober): [https://youtu.be/TYoMws2H8Uc](https://youtu.be/TYoMws2H8Uc)
+
+Retrospective on 1.0 (Pre-ARR FF14): [https://www.youtube.com/watch?v=CJ9CmxaQ3q8&list=PLL5QTV3Hk60ag1MsSoox4HT5oBemN23vr&index=2](https://www.youtube.com/watch?v=CJ9CmxaQ3q8&list=PLL5QTV3Hk60ag1MsSoox4HT5oBemN23vr&index=2)
+
+Hairstyles (And where to find them!): [https://docs.google.com/spreadsheets/d/1Pr4zyskAPTjLQfec0aSPFN_N9iFTdxIQvmOSoYdPiXM/edit#gid=0](https://docs.google.com/spreadsheets/d/1Pr4zyskAPTjLQfec0aSPFN_N9iFTdxIQvmOSoYdPiXM/edit#gid=0) \
+Glamour Inspiration photos: [https://ffxiv.eorzeacollection.com/glamours](https://ffxiv.eorzeacollection.com/glamours) \
+	Alternate: [https://mirapri.com/](https://mirapri.com/)
+
+
+# Plain Text Guides (WIP)
+
+How to target macro on BLU: /macroicon “Eruption” blueaction
+
+/bluesction “Eruption” &lt;t>
+
+What are the retainer breakpoints for maximum yield?
+
+Fisher: 1745 Gathering
+
+Botanist/Miner: 2083 Gathering (Technically 2182 for 1* Materials, however it is not something worth to aim towards as it will be a yield of 7 per hour)
+
+Battle: ilvl 428 
+
+What to do at the FC House: 
+1. How to get there 
+2. Gardening 
+3. Airships and Submarines 
+4. Chocobo Stables 
+5. Target Dummies 
+6. Market Board 
+7. Retainer Bell 
+8. Vendors 
+9. FC Buffs 
+ 
+# Helpful text commands:
+
+`/isearch &lt;item name>`
+
+Searches all your inventories for the item (only uses the first part of the name. So if you search for "Gold ore" it just searches for "Gold" in any part of an item name.
+
+`/sea`
+
+Will show you in zone people
+
+`/sea forename xxxxx`
+
+Gives you people with firstname
+
+`/sea surname xxxx`
+
+Gives you last name searches 
+ 
+

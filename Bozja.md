@@ -1,6 +1,6 @@
 ---
-title: Bozja
-nav_order: 2
+title: Bozja FAQ (WIP)
+nav_order: 3
 permalink: /Bozja/
 ---
 
