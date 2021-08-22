@@ -2,7 +2,7 @@
 title: List of resources
 layout: page
 permalink: /resources/
-nav_order: 2
+nav_order: 3
 ---
 # General
 

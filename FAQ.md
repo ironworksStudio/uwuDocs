@@ -1,8 +1,8 @@
 ---
 title: Althaia's FAQ Copypastas
 layout: page
-permalink: /uwuFAQ/
-nav_order: 1
+permalink: /copypastas/
+nav_order: 2
 ---
 
 
