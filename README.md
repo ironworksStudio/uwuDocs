@@ -1,8 +1,6 @@
 ---
-title: Home
-layout: page
-nav_order: 1
+layout: default
+title: readme
+nav_exclude: true
 ---
-## Welcome to Onee-chan's info dump!
-
-I hope you all enjoy your stay :) 
+## this is the readme

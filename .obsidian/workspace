@@ -7,11 +7,8 @@
         "id": "6be969c92940c34f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +84,14 @@
   },
   "active": "6be969c92940c34f",
   "lastOpenFiles": [
-    "README.md",
+    "index.html.md",
     "old_readme.md",
-    "Resources list.md",
-    "Beginner's Guide WIP.md",
+    "README.md",
+    "Untitled.md",
     "FAQ.md",
+    "Beginner's Guide WIP.md",
     "Bozja.md",
-    "Home.md",
-    "Untitled.md"
+    "Resources list.md",
+    "Home.md"
   ]
 }
