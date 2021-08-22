@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Beginner's guide WIP"
 permalink: /AGEYEWKAFFXIV/
+nav_order: 1
+---
 
 # "Althaia's Guide to Everything You Ever Wanted to Know About Final Fantasy 14"
 (Title provided by Mountain King)
