@@ -10,8 +10,14 @@ Daily reminder: Sit up, stretch for a second. Are you hydrated? :) Be kind to yo
 
 
 # Index
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
 
 TBH literally the only thing I'll ask of people is to say hello to each other when they log in :) No requirements to carry on a conversation, no requirement to say anything beyond what they are comfortable with/what they are in the mood to say, but it means so much to me to see people at least say hi to each other. Sometimes, that's the only hello or good morning some people get in their day, y'know?
 
