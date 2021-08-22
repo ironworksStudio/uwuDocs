@@ -1,6 +1,3 @@
----
-layout: default
-title: readme
-nav_exclude: true
----
 ## this is the readme
+
+wheee lets see if ibreak everythiiing
