@@ -1,3 +1,9 @@
+---
+title: Bozja
+nav_order: 2
+permalink: /Bozja/
+---
+
 Clusters are a form of currency used in bozja southern front. They drop from specific mombs anda re used to buy stuff like riding maps, minions and other stuff.
 
 #bozja 
