@@ -1,9 +1,11 @@
 ---
 layout: default
-title: home
+title: Home
 nav_order: 1
 ---
 
 Welcome to Onee-chan's info dump!
 
 I hope you all enjoy your stay :) 
+
+Everything in here is a WIP but in different forms of usable. Just search for whatever you need and go from there. 

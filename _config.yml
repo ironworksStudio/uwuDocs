@@ -1,0 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
+# Aux links for the upper right navigation
+aux_links:
+  "Onee-chan Website":
+    - "https://onee-chan.info/"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
