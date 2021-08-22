@@ -1,4 +1,5 @@
 ---
+title: Beginner's Guide WIP
 layout: page
 title: "Beginner's guide WIP"
 permalink: /AGEYEWKAFFXIV/
