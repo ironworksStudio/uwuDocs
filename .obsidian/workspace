@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1.Home.md",
+            "file": "docs/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1.Home.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6be969c92940c34f",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/1.Home.md",
+    "docs/3.Bozja_Guide_WIP.md",
     "docs/2.FAQ.md",
+    "docs/3.Resources_list.md",
+    "docs/4.Beginners_Guide_WIP.md",
+    "old/old_readme.md",
     "README.md",
     "1.Home.md",
-    "old_readme.md",
-    "index.md",
-    "2.FAQ.md",
-    "Resources list.md",
-    "FAQ.md",
-    "Bozja.md"
+    "old_readme.md"
   ]
 }
