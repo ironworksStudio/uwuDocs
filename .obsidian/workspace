@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FAQ.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "6be969c92940c34f",
   "lastOpenFiles": [
-    "FAQ.md",
     "README.md",
+    "FAQ.md",
     "old_readme.md",
     "Beginner's Guide WIP.md",
     "Bozja.md",
