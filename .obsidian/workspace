@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 220
   },
   "right": {
     "id": "942710da14aabbb9",
@@ -90,8 +90,8 @@
   "lastOpenFiles": [
     "docs/2.FAQ.md",
     "docs/4.Beginners_Guide_WIP.md",
-    "docs/3.Bozja_Guide_WIP.md",
     "docs/3.Resources_list.md",
+    "docs/3.Bozja_Guide_WIP.md",
     "docs/index.md",
     "docs/FAQ.md",
     "docs/Home.md",
